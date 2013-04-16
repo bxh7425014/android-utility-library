@@ -1,4 +1,4 @@
-
+﻿
 public class Hello {
 
 	/**
@@ -6,7 +6,7 @@ public class Hello {
 	 */
 	public static void main(String[] args) {
 		int[] values ={
-                3,1,6,2,9,100,7,4,5,21,56
+                3,1,6,2,9,100,7,4,5,21,56,52
         };
 		sort(values);
 		for (int i = 0; i < values.length; ++i) {
